@@ -1,0 +1,3 @@
+def sdajs():
+
+    chaine = input
